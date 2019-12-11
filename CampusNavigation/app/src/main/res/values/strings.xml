@@ -1,4 +1,17 @@
 <resources>
-    <string name="app_name">CampusNavigation</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="app_name">MultiApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_a_random_number">Get a Random Number!</string>
+    <string name="enter_the_large_number">enter the large number</string>
+    <string name="enter_the_small_number">enter the small number</string>
+    <string name="without_replacement">without replacement</string>
+    <string name="get_number">GET NUMBER</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="enter_price">Enter price</string>
+    <string name="_15_tip">15% Tip</string>
+    <string name="_20_tip">20% Tip</string>
+    <string name="_18_tip">18% Tip</string>
 </resources>

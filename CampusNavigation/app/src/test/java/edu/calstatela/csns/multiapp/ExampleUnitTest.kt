@@ -1,4 +1,4 @@
-package com.example.campusnavigation
+package edu.calstatela.csns.multiapp
 
 import org.junit.Test
 

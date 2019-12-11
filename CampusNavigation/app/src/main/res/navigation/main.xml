@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/randomNumberGeneratorFragment">
+
+    <fragment
+        android:id="@+id/randomNumberGeneratorFragment"
+        android:name="edu.calstatela.csns.multiapp.RandomNumberGeneratorFragment"
+        android:label="fragment_random_number_generator"
+        tools:layout="@layout/fragment_random_number_generator">
+        <action
+            android:id="@+id/action_randomNumberGeneratorFragment_to_rollDiceFragment"
+            app:destination="@id/rollDiceFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/rollDiceFragment"
+        android:name="edu.calstatela.csns.multiapp.RollDiceFragment"
+        android:label="fragment_roll_dice"
+        tools:layout="@layout/fragment_roll_dice" >
+        <action
+            android:id="@+id/action_rollDiceFragment_to_tipGeneratorFragment"
+            app:destination="@id/tipGeneratorFragment"
+            app:popUpTo="@+id/randomNumberGeneratorFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/tipGeneratorFragment"
+        android:name="edu.calstatela.csns.multiapp.TipGeneratorFragment"
+        android:label="fragment_tip_generator"
+        tools:layout="@layout/fragment_tip_generator" />
+
+</navigation>
