@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/randomNumber">
+
+    <fragment
+        android:id="@+id/randomNumber"
+        android:name="com.example.hw3.Fragments.RandomNumber"
+        android:label="Random Number Generator">
+
+    </fragment>
+    <fragment
+        android:id="@+id/diceRoller"
+        android:name="com.example.hw3.Fragments.DiceRoller"
+        android:label="Dice Roller"
+        >
+
+
+
+    </fragment>
+    <fragment
+        android:id="@+id/tipCalculator"
+        android:name="com.example.hw3.Fragments.TipCalculator"
+        android:label="Tip Calculator"
+        >
+
+    </fragment>
+</navigation>
