@@ -1,0 +1,25 @@
+<resources>
+  <string name="application_name">Campus Navigation</string>
+  <string name="access_token">
+      pk.eyJ1IjoiY29kaW5nZGVtb3MiLCJhIjoiY2pvY2Vhc3dxMHFkMjNxcWxhb2t0YTVtOSJ9.Y4sULP2UIZfKsWHnW72vpQ</string>
+  <string name="msg_location_not_granted">User location was not granted</string>
+  <string name="msg_map_permission">This app needs location permission to be able to show your
+    location on the map</string>
+  <string name="line_distance_textview">Line Distance is 67</string>
+  <string name="nav_drawer">Navigation Drawer</string>
+    <string name="title_activity_vir">vir</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+</resources>

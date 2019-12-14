@@ -1,0 +1,466 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/1dc92a483a5cc9e625d05d555085a6ba/multidex-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/dc4426dcd4d876245b502d5b62595dd9/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9d0161647fdc6d2af6dbf6606f76c52e/mapbox-android-navigation-ui-0.26.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b1a905214446d2e69c949d10c4f75caa/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:2:1-20:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.5.7] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ef7d3e5ef3e2e9a0f860fc976279901/mapbox-android-telemetry-3.5.7/AndroidManifest.xml:2:1-19:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:0.2.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/acb26140ee14a28829e8760295e8ab11/mapbox-android-core-0.2.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fb83c20c503cab96aefe9bbc24aa2726/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2550149f28ce7e84456312a98a62f76f/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/72f18413457d23c982c9573e13a23301/play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/a34a32a848720af07af93c66a7fc6be9/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ff3740b640d41ba7760996288bd15738/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/735bdcaa8bc5be15157e585647f7b686/play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/55655234cea098bac4bba0b1392bd19f/play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e1e9acc094faa372979a447dbf125da6/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/825de2e4e70f52af57b6c05ce48fc95b/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/7d74f35025736c47de5079c3eedae60a/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/758ee3cb05a601ee0964d1a093344fd8/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e9f13cb8d31887f92d226e7ed4a3b106/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/51131e8a97e7a31d6663033f03f2e146/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.3.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fe33654cc3bdc445a0c6be870fb59e97/mapbox-android-gestures-0.3.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9f0904885edd1f00da2a0858f33788c3/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/95954b836d4d5149adfab6d37f968dd1/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6833da53d1109d03891567390fc292b0/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/af8591060ac548dd83bb05bcee251e83/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/dd2e7ba721672fcf641bdd0c3f3d3583/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5516f6bce87bb0e63890f0662a033524/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/64589308bf6d32aa00431f7556c36809/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6ef62676cb61bb9d570711ec7caa1f60/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/be72dc3386bed93f2ef3eb2266f94cda/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b422694a8bba39aff435ba6757b47fdd/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6d90aedab32d1f586193dc9075cfea93/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1003de32a6f6b9db2a006f9992d03f4/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8498d9c153128807d393bc6f394a042a/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e2172baf37c485873349a7eb8dc107bb/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5b8dc24154b34b6107f9f4d2c97fc6b1/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8d12d291b1ed0e5d41f5259a192a07fc/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3446eab3f851d7c3e377704e061d478e/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b4d0a6eafb6992e4200041a5a2a0652f/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3467f28dfdd86c6e50f58cabe6a74c51/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5f2da55d84d342ec2f9a978368a0a947/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5393038a73008b40ee6caffd7470513c/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fe2795933d17ec01845a85c9ac6fa979/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c959bbbd32b9be83d3c6dfda5f11198c/exifinterface-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/78250c143c7a564b43317b6893b2e24c/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2d68708550dd45338a0630b5664e74c1/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e1195347282043388a762e96250ff25c/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6fe0a8d0f48f5ccc8a978a00f9a131e3/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/aa69288ac250be695d760707016eb137/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/a2ac6ff7fcd75d66c466cbf74b5e0977/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/79f1a6e91ba84e948fd490715946be78/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5c681314389bb6f99806e8b09b0fc3d7/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ba4615a94a7dad2fec0135d090f8e94a/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1b9d599a9ad57940838fc271d622781/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1587ca6d288dd6186d29ddc61c0d53d/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/cc44a1dc5c1ee36c4b15c220a66af9a9/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/09bcd126475fef88c077907553299c09/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/11e3b9ed509609d71e516ae144b6049a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b336d1f04fa96d7791d186703c4b5e48/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/765beee67e38a5aca1e8352cab4d780e/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fd2055589bf19e4f3b51e9132aa44799/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2c5054177d393f99e41d8771645e35b2/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/04824058308b4636ae97f3e43d87960f/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/17bbd9c554b0bbff0e21d86ee90011c6/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b20c975e604faaf5e0a8a28a82435b32/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/0c7c84c7323d6ddfd4bfb4da2d345f93/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ed27cdf03339aa6677bdf83642fd229/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/390865cfbff283803a888b45498cca2f/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/50f1f889ccb073fa814729df00d55940/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c6bc9ed69d60287150ece3672a1e6e22/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/0afdb6b988b3d5ba9edacc8dbbdba1b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8c0ea0338d4adfc31979d299a783a195/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8807b796c5c6f7185f5e2bcf79836887/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/306db047e6b10ec9c8dee5f26ee4edc8/timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.navigator:mapbox-navigation-native:3.4.11] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/4d9271ba4ca330844136ed32bc8b2143/mapbox-navigation-native-3.4.11/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:3:3-39
+		INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:3:42-88
+	android:versionCode
+		INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:6:3-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:0.2.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/acb26140ee14a28829e8760295e8ab11/mapbox-android-core-0.2.1/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:0.2.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/acb26140ee14a28829e8760295e8ab11/mapbox-android-core-0.2.1/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:6:20-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:7:3-74
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:9:5-77
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:7:20-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:9:3-65
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:9:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:10:3-77
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:10:20-74
+uses-permission#android.permission.CAMERA
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:11:3-63
+	android:name
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:11:20-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:12:3-79
+	android:name
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:12:20-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:13:3-79
+	android:name
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:13:20-76
+application
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:14:3-32:17
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9d0161647fdc6d2af6dbf6606f76c52e/mapbox-android-navigation-ui-0.26.0/AndroidManifest.xml:9:5-11:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9d0161647fdc6d2af6dbf6606f76c52e/mapbox-android-navigation-ui-0.26.0/AndroidManifest.xml:9:5-11:19
+MERGED from [com.android.support:design:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b1a905214446d2e69c949d10c4f75caa/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b1a905214446d2e69c949d10c4f75caa/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.5.7] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ef7d3e5ef3e2e9a0f860fc976279901/mapbox-android-telemetry-3.5.7/AndroidManifest.xml:15:5-17:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.5.7] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ef7d3e5ef3e2e9a0f860fc976279901/mapbox-android-telemetry-3.5.7/AndroidManifest.xml:15:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2550149f28ce7e84456312a98a62f76f/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2550149f28ce7e84456312a98a62f76f/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/72f18413457d23c982c9573e13a23301/play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/72f18413457d23c982c9573e13a23301/play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ff3740b640d41ba7760996288bd15738/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ff3740b640d41ba7760996288bd15738/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/735bdcaa8bc5be15157e585647f7b686/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/735bdcaa8bc5be15157e585647f7b686/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/55655234cea098bac4bba0b1392bd19f/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/55655234cea098bac4bba0b1392bd19f/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b422694a8bba39aff435ba6757b47fdd/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b422694a8bba39aff435ba6757b47fdd/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6d90aedab32d1f586193dc9075cfea93/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6d90aedab32d1f586193dc9075cfea93/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1003de32a6f6b9db2a006f9992d03f4/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1003de32a6f6b9db2a006f9992d03f4/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fd2055589bf19e4f3b51e9132aa44799/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fd2055589bf19e4f3b51e9132aa44799/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/04824058308b4636ae97f3e43d87960f/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/04824058308b4636ae97f3e43d87960f/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/306db047e6b10ec9c8dee5f26ee4edc8/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/306db047e6b10ec9c8dee5f26ee4edc8/timber-4.7.1/AndroidManifest.xml:7:5-20
+	android:supportsRtl
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:19:7-33
+	android:label
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:17:7-39
+	android:appComponentFactory
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:22:7-51
+		REJECTED from [com.android.support:support-compat:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6d90aedab32d1f586193dc9075cfea93/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+		REJECTED from [androidx.core:core:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fd2055589bf19e4f3b51e9132aa44799/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:roundIcon
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:18:7-52
+	android:icon
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:16:7-41
+	android:allowBackup
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:15:7-33
+	android:theme
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:20:7-38
+	tools:replace
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:21:7-50
+activity#com.raywenderlich.where2go.MainActivity
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:24:5-30:16
+	android:name
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:24:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:25:7-29:23
+action#android.intent.action.MAIN
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:26:9-61
+	android:name
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:26:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:28:9-69
+	android:name
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:28:19-66
+uses-sdk
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/1dc92a483a5cc9e625d05d555085a6ba/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/1dc92a483a5cc9e625d05d555085a6ba/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/dc4426dcd4d876245b502d5b62595dd9/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/dc4426dcd4d876245b502d5b62595dd9/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9d0161647fdc6d2af6dbf6606f76c52e/mapbox-android-navigation-ui-0.26.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9d0161647fdc6d2af6dbf6606f76c52e/mapbox-android-navigation-ui-0.26.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b1a905214446d2e69c949d10c4f75caa/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b1a905214446d2e69c949d10c4f75caa/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.5.7] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ef7d3e5ef3e2e9a0f860fc976279901/mapbox-android-telemetry-3.5.7/AndroidManifest.xml:11:5-13:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.5.7] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ef7d3e5ef3e2e9a0f860fc976279901/mapbox-android-telemetry-3.5.7/AndroidManifest.xml:11:5-13:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:0.2.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/acb26140ee14a28829e8760295e8ab11/mapbox-android-core-0.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:0.2.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/acb26140ee14a28829e8760295e8ab11/mapbox-android-core-0.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fb83c20c503cab96aefe9bbc24aa2726/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fb83c20c503cab96aefe9bbc24aa2726/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2550149f28ce7e84456312a98a62f76f/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2550149f28ce7e84456312a98a62f76f/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/72f18413457d23c982c9573e13a23301/play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/72f18413457d23c982c9573e13a23301/play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/a34a32a848720af07af93c66a7fc6be9/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/a34a32a848720af07af93c66a7fc6be9/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ff3740b640d41ba7760996288bd15738/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ff3740b640d41ba7760996288bd15738/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/735bdcaa8bc5be15157e585647f7b686/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/735bdcaa8bc5be15157e585647f7b686/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/55655234cea098bac4bba0b1392bd19f/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/55655234cea098bac4bba0b1392bd19f/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e1e9acc094faa372979a447dbf125da6/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e1e9acc094faa372979a447dbf125da6/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/825de2e4e70f52af57b6c05ce48fc95b/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/825de2e4e70f52af57b6c05ce48fc95b/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/7d74f35025736c47de5079c3eedae60a/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/7d74f35025736c47de5079c3eedae60a/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/758ee3cb05a601ee0964d1a093344fd8/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/758ee3cb05a601ee0964d1a093344fd8/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e9f13cb8d31887f92d226e7ed4a3b106/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e9f13cb8d31887f92d226e7ed4a3b106/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/51131e8a97e7a31d6663033f03f2e146/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/51131e8a97e7a31d6663033f03f2e146/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.3.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fe33654cc3bdc445a0c6be870fb59e97/mapbox-android-gestures-0.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.3.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fe33654cc3bdc445a0c6be870fb59e97/mapbox-android-gestures-0.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9f0904885edd1f00da2a0858f33788c3/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9f0904885edd1f00da2a0858f33788c3/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/95954b836d4d5149adfab6d37f968dd1/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/95954b836d4d5149adfab6d37f968dd1/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6833da53d1109d03891567390fc292b0/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6833da53d1109d03891567390fc292b0/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/af8591060ac548dd83bb05bcee251e83/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/af8591060ac548dd83bb05bcee251e83/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/dd2e7ba721672fcf641bdd0c3f3d3583/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/dd2e7ba721672fcf641bdd0c3f3d3583/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5516f6bce87bb0e63890f0662a033524/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5516f6bce87bb0e63890f0662a033524/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/64589308bf6d32aa00431f7556c36809/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/64589308bf6d32aa00431f7556c36809/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6ef62676cb61bb9d570711ec7caa1f60/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6ef62676cb61bb9d570711ec7caa1f60/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/be72dc3386bed93f2ef3eb2266f94cda/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/be72dc3386bed93f2ef3eb2266f94cda/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b422694a8bba39aff435ba6757b47fdd/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b422694a8bba39aff435ba6757b47fdd/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6d90aedab32d1f586193dc9075cfea93/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6d90aedab32d1f586193dc9075cfea93/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1003de32a6f6b9db2a006f9992d03f4/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1003de32a6f6b9db2a006f9992d03f4/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8498d9c153128807d393bc6f394a042a/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8498d9c153128807d393bc6f394a042a/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e2172baf37c485873349a7eb8dc107bb/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e2172baf37c485873349a7eb8dc107bb/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5b8dc24154b34b6107f9f4d2c97fc6b1/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5b8dc24154b34b6107f9f4d2c97fc6b1/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8d12d291b1ed0e5d41f5259a192a07fc/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8d12d291b1ed0e5d41f5259a192a07fc/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3446eab3f851d7c3e377704e061d478e/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3446eab3f851d7c3e377704e061d478e/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b4d0a6eafb6992e4200041a5a2a0652f/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b4d0a6eafb6992e4200041a5a2a0652f/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3467f28dfdd86c6e50f58cabe6a74c51/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3467f28dfdd86c6e50f58cabe6a74c51/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5f2da55d84d342ec2f9a978368a0a947/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5f2da55d84d342ec2f9a978368a0a947/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5393038a73008b40ee6caffd7470513c/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5393038a73008b40ee6caffd7470513c/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fe2795933d17ec01845a85c9ac6fa979/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fe2795933d17ec01845a85c9ac6fa979/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c959bbbd32b9be83d3c6dfda5f11198c/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c959bbbd32b9be83d3c6dfda5f11198c/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/78250c143c7a564b43317b6893b2e24c/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/78250c143c7a564b43317b6893b2e24c/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2d68708550dd45338a0630b5664e74c1/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2d68708550dd45338a0630b5664e74c1/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e1195347282043388a762e96250ff25c/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/e1195347282043388a762e96250ff25c/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6fe0a8d0f48f5ccc8a978a00f9a131e3/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/6fe0a8d0f48f5ccc8a978a00f9a131e3/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/aa69288ac250be695d760707016eb137/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/aa69288ac250be695d760707016eb137/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/a2ac6ff7fcd75d66c466cbf74b5e0977/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/a2ac6ff7fcd75d66c466cbf74b5e0977/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/79f1a6e91ba84e948fd490715946be78/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/79f1a6e91ba84e948fd490715946be78/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5c681314389bb6f99806e8b09b0fc3d7/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/5c681314389bb6f99806e8b09b0fc3d7/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ba4615a94a7dad2fec0135d090f8e94a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ba4615a94a7dad2fec0135d090f8e94a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1b9d599a9ad57940838fc271d622781/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1b9d599a9ad57940838fc271d622781/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1587ca6d288dd6186d29ddc61c0d53d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/d1587ca6d288dd6186d29ddc61c0d53d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/cc44a1dc5c1ee36c4b15c220a66af9a9/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/cc44a1dc5c1ee36c4b15c220a66af9a9/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/09bcd126475fef88c077907553299c09/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/09bcd126475fef88c077907553299c09/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/11e3b9ed509609d71e516ae144b6049a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/11e3b9ed509609d71e516ae144b6049a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b336d1f04fa96d7791d186703c4b5e48/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b336d1f04fa96d7791d186703c4b5e48/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/765beee67e38a5aca1e8352cab4d780e/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/765beee67e38a5aca1e8352cab4d780e/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fd2055589bf19e4f3b51e9132aa44799/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fd2055589bf19e4f3b51e9132aa44799/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2c5054177d393f99e41d8771645e35b2/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2c5054177d393f99e41d8771645e35b2/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/04824058308b4636ae97f3e43d87960f/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/04824058308b4636ae97f3e43d87960f/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/17bbd9c554b0bbff0e21d86ee90011c6/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/17bbd9c554b0bbff0e21d86ee90011c6/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b20c975e604faaf5e0a8a28a82435b32/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b20c975e604faaf5e0a8a28a82435b32/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/0c7c84c7323d6ddfd4bfb4da2d345f93/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/0c7c84c7323d6ddfd4bfb4da2d345f93/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ed27cdf03339aa6677bdf83642fd229/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ed27cdf03339aa6677bdf83642fd229/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/390865cfbff283803a888b45498cca2f/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/390865cfbff283803a888b45498cca2f/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/50f1f889ccb073fa814729df00d55940/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/50f1f889ccb073fa814729df00d55940/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c6bc9ed69d60287150ece3672a1e6e22/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c6bc9ed69d60287150ece3672a1e6e22/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/0afdb6b988b3d5ba9edacc8dbbdba1b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/0afdb6b988b3d5ba9edacc8dbbdba1b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8c0ea0338d4adfc31979d299a783a195/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8c0ea0338d4adfc31979d299a783a195/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8807b796c5c6f7185f5e2bcf79836887/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/8807b796c5c6f7185f5e2bcf79836887/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/306db047e6b10ec9c8dee5f26ee4edc8/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/306db047e6b10ec9c8dee5f26ee4edc8/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.mapbox.navigator:mapbox-navigation-native:3.4.11] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/4d9271ba4ca330844136ed32bc8b2143/mapbox-navigation-native-3.4.11/AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.navigator:mapbox-navigation-native:3.4.11] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/4d9271ba4ca330844136ed32bc8b2143/mapbox-navigation-native-3.4.11/AndroidManifest.xml:5:5-44
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+activity#com.mapbox.services.android.navigation.ui.v5.MapboxNavigationActivity
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9d0161647fdc6d2af6dbf6606f76c52e/mapbox-android-navigation-ui-0.26.0/AndroidManifest.xml:10:9-106
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9d0161647fdc6d2af6dbf6606f76c52e/mapbox-android-navigation-ui-0.26.0/AndroidManifest.xml:10:19-103
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:13:9-45
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:18:22-73
+service#com.mapbox.services.android.navigation.v5.navigation.NavigationService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:12:18-103
+service#com.mapbox.services.android.telemetry.service.TelemetryService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:14:9-98
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:14:18-95
+service#com.mapbox.android.telemetry.TelemetryService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.5.7] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ef7d3e5ef3e2e9a0f860fc976279901/mapbox-android-telemetry-3.5.7/AndroidManifest.xml:16:9-81
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:3.5.7] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ef7d3e5ef3e2e9a0f860fc976279901/mapbox-android-telemetry-3.5.7/AndroidManifest.xml:16:18-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b422694a8bba39aff435ba6757b47fdd/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/b422694a8bba39aff435ba6757b47fdd/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:27:13-51
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:24:13-83
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:9:13-64

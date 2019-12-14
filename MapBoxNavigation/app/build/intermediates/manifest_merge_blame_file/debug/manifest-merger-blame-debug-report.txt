@@ -1,0 +1,140 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.raywenderlich.where2go"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:6:3-76
+11-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:6:20-74
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:7:3-74
+12-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:7:20-72
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:9:3-65
+13-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:9:20-62
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:10:3-77
+14-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:10:20-74
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:11:3-63
+15-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:11:20-60
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:12:3-79
+16-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:12:20-76
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:13:3-79
+17-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:13:20-76
+18
+19    <uses-feature
+19-->[com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:9:5-11:35
+20        android:glEsVersion="0x00020000"
+20-->[com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:10:9-41
+21        android:required="true" />
+21-->[com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:11:9-32
+22    <uses-feature
+22-->[com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:12:5-14:36
+23        android:name="android.hardware.wifi"
+23-->[com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:13:9-45
+24        android:required="false" />
+24-->[com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:14:9-33
+25
+26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+26-->[com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:18:5-76
+26-->[com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/ef450c2d568246bedda65a2197eb50ce/mapbox-android-sdk-6.8.1/AndroidManifest.xml:18:22-73
+27
+28    <application
+28-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:14:3-32:17
+29        android:name="android.support.multidex.MultiDexApplication"
+30        android:allowBackup="true"
+30-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:15:7-33
+31        android:appComponentFactory="whateverString"
+31-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:22:7-51
+32        android:debuggable="true"
+33        android:icon="@mipmap/ic_launcher"
+33-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:16:7-41
+34        android:label="@string/app_name"
+34-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:17:7-39
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:18:7-52
+36        android:supportsRtl="true"
+36-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:19:7-33
+37        android:theme="@style/AppTheme" >
+37-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:20:7-38
+38        <activity android:name="com.raywenderlich.where2go.MainActivity" >
+38-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:24:5-30:16
+38-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:24:15-43
+39            <intent-filter>
+39-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:25:7-29:23
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:26:9-61
+40-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:26:17-58
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:28:9-69
+42-->/Users/harshkothari/Desktop/android/Where2go-final/app/src/main/AndroidManifest.xml:28:19-66
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.mapbox.services.android.navigation.ui.v5.MapboxNavigationActivity" />
+45-->[com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9d0161647fdc6d2af6dbf6606f76c52e/mapbox-android-navigation-ui-0.26.0/AndroidManifest.xml:10:9-106
+45-->[com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/9d0161647fdc6d2af6dbf6606f76c52e/mapbox-android-navigation-ui-0.26.0/AndroidManifest.xml:10:19-103
+46
+47        <service android:name="com.mapbox.services.android.navigation.v5.navigation.NavigationService" /> <!-- Include the telemetry service to simplify set up (https://www.mapbox.com/telemetry) -->
+47-->[com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:12:9-106
+47-->[com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:12:18-103
+48        <service android:name="com.mapbox.services.android.telemetry.service.TelemetryService" />
+48-->[com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:14:9-98
+48-->[com.mapbox.mapboxsdk:mapbox-android-navigation:0.26.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/f3b7dbed3860409fce97fc025087a372/mapbox-android-navigation-0.26.0/AndroidManifest.xml:14:18-95
+49        <service android:name="com.mapbox.android.telemetry.TelemetryService" />
+49-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:3.5.7] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ef7d3e5ef3e2e9a0f860fc976279901/mapbox-android-telemetry-3.5.7/AndroidManifest.xml:16:9-81
+49-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:3.5.7] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/2ef7d3e5ef3e2e9a0f860fc976279901/mapbox-android-telemetry-3.5.7/AndroidManifest.xml:16:18-78
+50
+51        <activity
+51-->[com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+52            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+52-->[com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+53            android:exported="false"
+53-->[com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+54            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+54-->[com.google.android.gms:play-services-base:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/abe643e4f3ed34e8dca7ebe341bba834/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+55
+56        <meta-data
+56-->[com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+57            android:name="com.google.android.gms.version"
+57-->[com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+58            android:value="@integer/google_play_services_version" />
+58-->[com.google.android.gms:play-services-basement:16.0.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/fbd492ae650078f409b56c3622cce016/play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+59        <meta-data
+59-->[com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+60            android:name="android.support.VERSION"
+60-->[com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:27:13-51
+61            android:value="26.1.0" />
+61-->[com.android.support:support-v4:26.1.0] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/3542fbce8875f161513abc237aa8f6a4/support-v4-26.1.0/AndroidManifest.xml:28:13-35
+62
+63        <provider
+63-->[android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:23:9-27:43
+64            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+64-->[android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:24:13-83
+65            android:authorities="com.raywenderlich.where2go.lifecycle-trojan"
+65-->[android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:25:13-68
+66            android:exported="false"
+66-->[android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:26:13-37
+67            android:multiprocess="true" />
+67-->[android.arch.lifecycle:extensions:1.1.1] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/61fb8a4a7fdcc178acaf22d98a3a6b92/extensions-1.1.1/AndroidManifest.xml:27:13-40
+68        <provider
+68-->[com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+69            android:name="com.squareup.picasso.PicassoProvider"
+69-->[com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:9:13-64
+70            android:authorities="com.raywenderlich.where2go.com.squareup.picasso"
+70-->[com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:10:13-72
+71            android:exported="false" />
+71-->[com.squareup.picasso:picasso:2.71828] /Users/harshkothari/.gradle/caches/transforms-2/files-2.1/c7e26636fd835104386dc1cb5e3e4646/picasso-2.71828/AndroidManifest.xml:11:13-37
+72    </application>
+73
+74</manifest>
