@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragments.TipCalculator">
+
+    <EditText
+        android:id="@+id/Bill_amnt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter total bill"
+        android:inputType="numberDecimal"
+        android:textSize="16sp" />
+
+    <RadioGroup
+        android:id="@+id/rg_button"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_margin="16dp"
+        android:gravity="center_vertical"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatRadioButton
+            android:id="@+id/b15"
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_vertical"
+            android:text="15%"
+            android:checked="true"
+            android:layout_height="wrap_content"/>
+
+        <androidx.appcompat.widget.AppCompatRadioButton
+            android:id="@+id/b18"
+            android:orientation="vertical"
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:text="18%"
+            android:layout_height="wrap_content"/>
+
+        <androidx.appcompat.widget.AppCompatRadioButton
+            android:id="@+id/b20"
+            android:layout_width="wrap_content"
+            android:text="20%"
+            android:orientation="vertical"
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/calculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/cardview_dark_background"
+        android:text="Calculate"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/Tip_amnt"
+        android:layout_width="match_parent"
+        tools:text="Tip Amount: $12"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:textSize="24sp"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/Total_amnt"
+        android:layout_width="match_parent"
+        tools:text="Total Amount:$ $45"
+        android:textSize="24sp"
+        android:layout_margin="16dp"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

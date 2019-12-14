@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/RANDOM_NUMBER"
+            android:title="Random Number Generator" />
+        <item
+            android:id="@+id/DICE_ROLL"
+            android:title="Dice Roll" />
+        <item
+            android:id="@+id/TIP_CALCULATOR"
+            android:title="Tip Calculator" />
+    </group>
+
+</menu>
