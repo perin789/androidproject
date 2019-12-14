@@ -11,17 +11,23 @@ Navigating an unfamiliar campus can be intimidating, not to mention stress-induc
 
 ![1](https://user-images.githubusercontent.com/57569970/70841376-d4ddde00-1dce-11ea-9986-0c7e945c42d0.jpeg)
 
-
-![2](https://user-images.githubusercontent.com/57569970/70841388-e921db00-1dce-11ea-9bf7-873184f2ca42.jpeg)
-
-![3](https://user-images.githubusercontent.com/57569970/70841396-f2ab4300-1dce-11ea-86a3-4ad5abada4a7.jpeg)
-
-
 <h1>Purpose:</h1>
 
 Our purpose is to build an app that guides the user to their desired location or a building, by giving them turn-by-turn direction from within the campus and detailed description of all the buildings on our campus.
 
 As the user open the app it will direct the user to the login page. After logging in the user will be able to view their position and the campus map. They can then select a building that they need directions for and it will open the navigation.
+
+![2](https://user-images.githubusercontent.com/57569970/70841388-e921db00-1dce-11ea-9bf7-873184f2ca42.jpeg)
+
+![3](https://user-images.githubusercontent.com/57569970/70841396-f2ab4300-1dce-11ea-86a3-4ad5abada4a7.jpeg)
+
+![4](https://user-images.githubusercontent.com/57569970/70841407-08b90380-1dcf-11ea-96ec-0d4b253f4ae4.jpeg)
+
+![5](https://user-images.githubusercontent.com/57569970/70841412-1a021000-1dcf-11ea-9db8-120cbd354a37.jpeg)
+
+![6](https://user-images.githubusercontent.com/57569970/70841423-32722a80-1dcf-11ea-9265-e7a46220002a.jpeg)
+
+
 
 
 
