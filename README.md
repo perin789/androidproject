@@ -7,5 +7,9 @@ They all need help finding their way around Cal State LA expansive campus networ
 
 Navigating an unfamiliar campus can be intimidating, not to mention stress-inducing when you lose your way and risk showing up late for a lecture or an exam.
 
-Our purpose is to build an app that guides the user to their desired location or a building, by giving them turn-by-turn direction from within the campus.  
+Our purpose is to build an app that guides the user to their desired location or a building, by giving them turn-by-turn direction from within the campus and detailed description of all the buildings on our campus.
+
+As the user open the app it will direct the user to the login page. After logging in the user will be able to view their position and the campus map. They can then select a building that they need directions for and it will open the navigation.
+
+
 
