@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">934511026237-jq9i17srjf9l1embaql2cm3motirnjas.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://campusnavigation-957f4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">934511026237</string>
+    <string name="google_api_key" translatable="false">AIzaSyDds5V4Qs8Z9-mH2bfuQt8EohATDsDC-us</string>
+    <string name="google_app_id" translatable="false">1:934511026237:android:6db6af14115cc3b56e0a54</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDds5V4Qs8Z9-mH2bfuQt8EohATDsDC-us</string>
+    <string name="google_storage_bucket" translatable="false">campusnavigation-957f4.appspot.com</string>
+    <string name="project_id" translatable="false">campusnavigation-957f4</string>
+</resources>

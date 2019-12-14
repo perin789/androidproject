@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934511026237",
+    "firebase_url": "https://campusnavigation-957f4.firebaseio.com",
+    "project_id": "campusnavigation-957f4",
+    "storage_bucket": "campusnavigation-957f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934511026237:android:6db6af14115cc3b56e0a54",
+        "android_client_info": {
+          "package_name": "com.android.example.campusnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934511026237-ekj6ldufmsdps2u9odg279ropbcamqop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.example.campusnavigation",
+            "certificate_hash": "b01125f4d1d34916b5e946e22ee23115b6451be0"
+          }
+        },
+        {
+          "client_id": "934511026237-jq9i17srjf9l1embaql2cm3motirnjas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDds5V4Qs8Z9-mH2bfuQt8EohATDsDC-us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934511026237-jq9i17srjf9l1embaql2cm3motirnjas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
