@@ -1,4 +1,5 @@
 # androidproject
+
 CAMPUS NAVIGATION
 
 <h1>Inspiration:</h1>
@@ -26,8 +27,6 @@ As the user open the app it will direct the user to the login page. After loggin
 ![5](https://user-images.githubusercontent.com/57569970/70841412-1a021000-1dcf-11ea-9db8-120cbd354a37.jpeg)
 
 ![6](https://user-images.githubusercontent.com/57569970/70841423-32722a80-1dcf-11ea-9265-e7a46220002a.jpeg)
-
-
 
 
 
